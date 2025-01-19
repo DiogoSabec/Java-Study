@@ -58,6 +58,9 @@ public class Desafio2 {
                     processo = false;
                     break;
 
+                default:
+                    System.out.println("Insira uma opção válida.);
+                    break;
             }
         }
     }
