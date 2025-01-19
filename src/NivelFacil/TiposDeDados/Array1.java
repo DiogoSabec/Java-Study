@@ -1,6 +1,6 @@
-package TiposDeDados;
+package NivelFacil.TiposDeDados;
 
-public class Array {
+public class Array1 {
     public static void main(String[] args) {
 
         // "Quantos espaços do meu carro eu quero dar carona?"

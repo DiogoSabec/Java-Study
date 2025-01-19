@@ -1,6 +1,4 @@
-package TiposDeDados;
-
-import java.util.Arrays;
+package NivelFacil.TiposDeDados;
 
 public class DadosPrimitivos {
     public static void main(String[] args) {

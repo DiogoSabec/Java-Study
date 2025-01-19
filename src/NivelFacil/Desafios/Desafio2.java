@@ -1,5 +1,4 @@
-package Desafios;
-import java.sql.SQLOutput;
+package NivelFacil.Desafios;
 import java.util.Scanner;
 
 public class Desafio2 {
@@ -59,7 +58,7 @@ public class Desafio2 {
                     break;
 
                 default:
-                    System.out.println("Insira uma opção válida.);
+                    System.out.println("Insira uma opção válida.");
                     break;
             }
         }
