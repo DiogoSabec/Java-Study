@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediario1;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class Main {
         naruto.nome = "Naruto";
         naruto.idade = 18;
         naruto.aldeia = "Folha";
+        naruto.ModoSabio();
 
         // Objeto 2
         Uchiha sasuke = new Uchiha();
@@ -18,18 +19,28 @@ public class Main {
         sasuke.aldeia = "Folha";
         sasuke.idade = 18;
         sasuke.SharinganAtivado();
+        sasuke.HabilidadeEspecial();
 
         // Objeto 3
         Haruno sakura = new Haruno();
         sakura.nome = "Sakura";
         sakura.aldeia = "Folha";
         sakura.idade = 18;
+        sakura.AtivarCura();
 
         // Objeto 4
-        Ninja hinata = new Ninja();
+        Hyuga hinata = new Hyuga();
         hinata.nome = "Hinata";
         hinata.aldeia = "Folha";
         hinata.idade = 18;
+        hinata.AtivarByakugan();
+
+        // Objeto 5
+        Hyuga boruto = new Hyuga();
+        boruto.nome = "Boruto";
+        boruto.aldeia = "Folha";
+        boruto.idade = 99;
+        boruto.AtivarByakugan();
 
 
     }
