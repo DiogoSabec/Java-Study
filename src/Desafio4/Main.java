@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        NinjaMolde[] listaNinjas = new NinjaMolde[5];
+        int tamanhoLista = 5;
+        NinjaMolde[] listaNinjas = new NinjaMolde[tamanhoLista];
         boolean processo = true;
 
         while (processo) {

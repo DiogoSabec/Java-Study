@@ -3,7 +3,6 @@ package NivelIntermediario2;
 public class Main {
     public static void main(String[] args) {
 
-
         Hokage hashirama = new Hokage();
 
         Hokage tobirama = new Hokage("Tobirama");
