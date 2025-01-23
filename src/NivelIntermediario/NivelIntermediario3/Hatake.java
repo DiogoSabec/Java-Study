@@ -19,6 +19,7 @@ public class Hatake extends Ninja implements SharinganInterface, AnbuInterface{
 
     @Override
     public void BemVindoAAnbu() {
-        
+
     }
+
 }
