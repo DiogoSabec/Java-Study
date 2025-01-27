@@ -1,4 +1,4 @@
-package NivelIntermediario.NivelIntermediario4;
+package NivelIntermediario.RefactoredCode;
 
 public class Uchiha extends Ninja implements SharinganInterface {
 

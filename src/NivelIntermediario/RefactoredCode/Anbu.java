@@ -1,4 +1,4 @@
-package NivelIntermediario.NivelIntermediario4;
+package NivelIntermediario.RefactoredCode;
 
 final public class Anbu {
 
